@@ -1,0 +1,11 @@
+C:\Users\pablo\OneDrive\Escritorio\facultad\Laboratorio 3\RegistroTareas.pry\bin\Debug\RegistroTareas.pry.exe.config
+C:\Users\pablo\OneDrive\Escritorio\facultad\Laboratorio 3\RegistroTareas.pry\bin\Debug\RegistroTareas.pry.exe
+C:\Users\pablo\OneDrive\Escritorio\facultad\Laboratorio 3\RegistroTareas.pry\bin\Debug\RegistroTareas.pry.pdb
+C:\Users\pablo\OneDrive\Escritorio\facultad\Laboratorio 3\RegistroTareas.pry\obj\Debug\RegistroTareas.pry.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive\Escritorio\facultad\Laboratorio 3\RegistroTareas.pry\obj\Debug\RegistroTareas.pry.csproj.SuggestedBindingRedirects.cache
+C:\Users\pablo\OneDrive\Escritorio\facultad\Laboratorio 3\RegistroTareas.pry\obj\Debug\RegistroTareas.pry.frmRegistroTareas.resources
+C:\Users\pablo\OneDrive\Escritorio\facultad\Laboratorio 3\RegistroTareas.pry\obj\Debug\RegistroTareas.pry.Properties.Resources.resources
+C:\Users\pablo\OneDrive\Escritorio\facultad\Laboratorio 3\RegistroTareas.pry\obj\Debug\RegistroTareas.pry.csproj.GenerateResource.cache
+C:\Users\pablo\OneDrive\Escritorio\facultad\Laboratorio 3\RegistroTareas.pry\obj\Debug\RegistroTareas.pry.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Escritorio\facultad\Laboratorio 3\RegistroTareas.pry\obj\Debug\RegistroTareas.pry.exe
+C:\Users\pablo\OneDrive\Escritorio\facultad\Laboratorio 3\RegistroTareas.pry\obj\Debug\RegistroTareas.pry.pdb
